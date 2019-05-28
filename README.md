@@ -3,18 +3,18 @@ Udacity's Machine learning Nanodegree graduation project - predicting the prices
 
 Dataset used: 
 
-  https://www.kaggle.com/orgesleka/used-cars-database
+    https://www.kaggle.com/orgesleka/used-cars-database
 
 libraries used:
 
-  python 3
+    python 3
   
-  pandas
+    pandas
   
-  numpy 
+    numpy 
   
-  matplotlib
+    matplotlib
   
-  seaborn 
+    seaborn 
   
-  sklearn
+    sklearn
